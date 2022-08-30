@@ -1,7 +1,7 @@
 {
-  "name": "dynamic-three-cannon-example",
+  "name": "webxr-emulator-test",
   "version": "1.0.0",
-  "description": "Dynamically creating/disposing of three.js + cannon-es objects",
+  "description": "WebXR Emulator test of three.js AR template",
   "main": "app.js",
   "scripts": {
     "watch": "webpack --watch",
